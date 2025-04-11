@@ -1,8 +1,25 @@
-# React + Vite
+# Tayrine Soares - Developer Portfolio 🌟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio!
 
-Currently, two official plugins are available:
+This is a personal project to showcase my web development skills, projects, and journey as I transition into tech. I'm building this portfolio using **React** for the front-end and styling it with **CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚧 Project Status
+
+Currently in development – stay tuned for updates as I add more features, polish the design, and highlight my latest work.
+
+## 🛠️ Tech Stack
+
+- React
+- CSS
+
+## 📫 Let's Connect
+
+Feel free to explore and reach out!
+
+- [GitHub](https://github.com/TayrineSoares)
+- [LinkedIn](https://www.linkedin.com/in/tayrine-soares/)
+
+---
+
+Thanks for stopping by!
