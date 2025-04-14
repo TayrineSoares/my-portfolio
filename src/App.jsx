@@ -1,12 +1,11 @@
-import Counter from './components/counter'
 import './App.css'
 
 const App = () => {
 
   return (
     <div className='App'>
-      <h1>This is my App page </h1>
-      <Counter />
+      <h1>🚧 Portfolio Under Construction 🚧 </h1>
+      <h3>This is my App page </h3>
     </div>
   )
 }
