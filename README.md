@@ -2,11 +2,15 @@
 
 Welcome to my portfolio!
 
-This is a personal project to showcase my web development skills, projects, and journey as I transition into tech. I'm building this portfolio using **React** for the front-end and styling it with **CSS**.
+This is a personal project to showcase my web development skills, projects, and journey as I transition into tech. 
+
+## 🗂️ Project Planning
+
+If you want a sneak peek at my planning process, check out my [Trello Board](https://trello.com/b/sfz0XTuP/portfolio). 
 
 ## 🚧 Project Status
 
-Currently in development – stay tuned for updates as I add more features, polish the design, and highlight my latest work.
+Currently in development – stay tuned for updates as I add more features, and polish the design.
 
 ## 🛠️ Tech Stack
 
@@ -15,11 +19,5 @@ Currently in development – stay tuned for updates as I add more features, poli
 
 ## 📫 Let's Connect
 
-Feel free to explore and reach out!
-
-- [GitHub](https://github.com/TayrineSoares)
+Thanks for stopping by and feel free to explore and reach out!
 - [LinkedIn](https://www.linkedin.com/in/tayrine-soares/)
-
----
-
-Thanks for stopping by!
